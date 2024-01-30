@@ -1,1 +1,1 @@
-# .github
+https://meetecho.ai/
